@@ -1,0 +1,45 @@
+
+div {
+  margin: 15px;
+  width: 75%;
+}
+
+td {
+  padding: 8px;  
+}
+
+/* Estilo de los botones */
+.btn {
+  padding: 10px 20px; /* Espaciado interior */
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.text_class {
+  font-size: 18px;
+}
+
+.btn-warning {
+  background-color: #FFD700; /* Botón de color mostaza */
+  color: black;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  background-color: blue; /* Botón de color azul */
+  color: white;
+  border-radius: 5px;
+}
+
+.btn-danger {
+  background-color: red; /* Botón de color rojo */
+  color: white;
+  border-radius: 5px;
+}
+
+.input_class {
+  padding: 2px;
+  width: 150%;
+  font-size: 18px;
+}
